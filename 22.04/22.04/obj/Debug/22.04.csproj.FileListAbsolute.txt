@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\bin\Debug\22.04.exe.config
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\bin\Debug\22.04.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\bin\Debug\22.04.pdb
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\obj\Debug\22.04.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\obj\Debug\22.04.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\obj\Debug\22.04.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\22.04\22.04\obj\Debug\22.04.pdb

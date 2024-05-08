@@ -1,0 +1,7 @@
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\bin\Debug\nova.exe.config
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\bin\Debug\nova.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\bin\Debug\nova.pdb
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\obj\Debug\nova.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\obj\Debug\nova.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\obj\Debug\nova.exe
+C:\Users\STUDENTS-1409-4\Documents\Драгомир9а\21.02.24\nova\obj\Debug\nova.pdb
